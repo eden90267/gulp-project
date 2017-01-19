@@ -1,0 +1,21 @@
+{
+  "name": "gulp-project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "eden90267 <eden90267@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
